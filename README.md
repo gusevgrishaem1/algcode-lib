@@ -1,15 +1,15 @@
 # algcode_lib
 
-A collection of fundamental data structures and algorithms implemented in Go. This library currently includes a stack data structure with both basic and thread-safe (synchronized) versions.
+A collection of fundamental data structures and algorithms implemented in multiple languages. This library includes stack data structures with both basic and synchronized (thread-safe) versions.
 
-## Features
+## Supported Languages
 
-- **Stack**: Implements a Last In, First Out (LIFO) data structure.
-- **SyncStack**: A thread-safe version of the stack, designed for concurrent access across goroutines.
+- **Go**
+- _(Additional languages to be added as the project expands)_
 
 ## Installation
 
-To include `algcode_lib` in your project, clone the repository:
+Clone the repository:
 
 ```bash
 git clone <repository-url>
